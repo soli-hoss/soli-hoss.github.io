@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 0 auto;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.top-container {
+  background-color: #53b8bb;
+  position: relative;
+  padding-top: 200px;
+}
+
+.middle-container {
+  font-family: "Montserrat", sans-serif;
+}
+
+.bottom-container {
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.WebDevLogo,
+.DataLogo {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+
+.ProfilePic {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
