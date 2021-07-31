@@ -2,7 +2,6 @@ body {
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif;
-  font-size: 200%;
 }
 
 h1 {
@@ -23,6 +22,10 @@ h3 {
   position: relative;
   padding-top: 200px;
   font-size: 5.625rem;
+}
+
+#personaltext {
+  font-size: 2.5rem;
 }
 
 .middle-container {
